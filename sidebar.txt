@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sde:home|Door43 (sde)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sde|d43-sde repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sde/archive/master.zip|d43-sde.zip]]
+
+**Recent Changes**
+{{changes>ns = sde}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sde|Ethnologue data]]
+
